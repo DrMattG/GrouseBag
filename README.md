@@ -3,5 +3,6 @@ Grouse Bag statistics Norway are published by Statistic Norway (https://www.ssb.
 
 To run the app in Rstudio:
 library(shiny)
-runGithub("GrouseBag", "DrMattG")
+
+runGitHub("GrouseBag", "DrMattG")
 
